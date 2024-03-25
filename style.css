@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    padding: 20px;
+height: 40px;
+    justify-content: space-between;
+    background: gainsboro;
+}
+nav{
+    padding: 5px;
+    display: flex;
+    gap: 50px;
+}
+span{
+    font-size: 18px;
+}
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.lng-Prof{
+    margin-top: 20px;
+    font-family: 'Playfair Display', serif;
+   font-size: 15px;
+}
+.lng-Name{
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+.block{
+    padding: 50px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    background: url('/src/1.jpg') center no-repeat;
+    background-size:cover;
+    border-radius: 50%;
+}
+.line{
+    margin-top: 20px;
+    border: solid 10px gainsboro;
+    width: 80%;
+}
+section{
+    margin-top: 50px;
+display: grid;
+grid-template-columns: repeat(2,1fr);
+width: 100%;
+}
+.content{
+    margin-top: 10px;
+}
+.wrapper{
+    padding: 50px;
+    width: 100%;
+}
