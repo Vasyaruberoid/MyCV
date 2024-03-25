@@ -3,7 +3,15 @@ const langArr = {
         "ru": "Контакты",
         "en" : "Contacts",
     },
+    "Cont":{
+        "ru": "Контакты",
+        "en" : "Contacts",
+    },
     "Summary":{
+        "ru": "О себе",
+        "en" : "Summary",
+    },
+    "Summ":{
         "ru": "О себе",
         "en" : "Summary",
     },
@@ -11,7 +19,15 @@ const langArr = {
         "ru": "Способности",
         "en" : "Skills",
     },
+    "Skills2":{
+        "ru": "Способности",
+        "en" : "Skills",
+    },
     "Projects":{
+        "ru": "Проекты",
+        "en" : "Projects",
+    },
+    "Proj":{
         "ru": "Проекты",
         "en" : "Projects",
     },
@@ -19,7 +35,15 @@ const langArr = {
         "ru": "Образование",
         "en" : "Education",
     },
+    "Educ":{
+        "ru": "Образование",
+        "en" : "Education",
+    },
     "Language":{
+        "ru": "Языки",
+        "en" : "Language",
+    },
+    "Lang":{
         "ru": "Языки",
         "en" : "Language",
     },
@@ -28,8 +52,8 @@ const langArr = {
         "en" : "Vasiliy Starovoytov",
     },
     "Prof":{
-        "ru": "Младший Фрогэнд Разработчик",
-        "en" : "Junior Front-end Developer",
+        "ru": "Стажёр Фрогэнд Разработчик",
+        "en" : "Intern Front-end Developer",
     },
     "CountryBY":{
         "ru": "Пинск,Беларусь",
@@ -40,8 +64,8 @@ const langArr = {
         "en" : "Penza, Russia",
     },
     "Mobile":{
-        "ru": "Телефон",
-        "en" : "Mobile",
+        "ru": "Мобильный телефон: +7 (953) 082-26-38,+375 (29) 947-34-90",
+        "en" : "Mobile: +7 (953) 082-26-38,+375 (29) 947-34-90",
     },
     "Email":{
         "ru": "Почта: vasiliy.starovoytov.96@mail.ru",
@@ -61,7 +85,7 @@ const langArr = {
         "en" : "Discord: vasiliystarovoytov",
     },
     
-    "Code wars":{
+    "Codewars":{
         "ru": "КодВарс: https://www.codewars.com/users/Vasyaruberoid",
         "en" : "CodeWars: https://www.codewars.com/users/Vasyaruberoid",
     },
@@ -69,11 +93,11 @@ const langArr = {
         "ru": "Развитие - цель моей жизни",
         "en" : "My meaning in life is development.",
     },
-    "Prof":{
-        "ru": "Веб-разработка",
-        "en" : "Web-development:",
+    "Proff":{
+        "ru": "Веб-разработка: HTML5,CSS3(Saas,Less),JavaScript,TypeScript",
+        "en" : "Web-development: HTML5,CSS3(Saas,Less),JavaScript,TypeScript",
     },
-    "Freaemwork":{
+    "Fraemwork":{
         "ru": "Фреймворк: React",
         "en" : "Frameworks and libraies: React",
     },
@@ -93,14 +117,19 @@ const langArr = {
         "ru": "Курсы",
         "en" : "Course",
     },
-    "Proj":{
-        "ru": "Резюме Магазин Велосипед Калькуляьор",
-        "en" : "Resume BikeShop Calculator",
+    "Proj1":{
+        "ru": "Магазин Велосипедов",
+        "en" : "BikeShop",
     },
-    "Educ":{
+    "Proj2":{
+        "ru": "Калькуляьор",
+        "en" : "Calculator",
+    },
+    "Educat":{
         "ru": "Белорусская государственная сельскохозяйственная Академия",
         "en" : "Belarusian State Agricultural Academy(engineer)",
     },
+    
     "Rus":{
         "ru": "Русский - А2",
         "en" : "Russian - A2",
@@ -114,7 +143,8 @@ const langArr = {
         "en" : "English - A2 intermediate",
     },
       "Pl":{
-        "ru": "Польский - А2",
         "en" : "Polish - A2",
+        "ru": "Польский - А2",
+      
     },
 }
