@@ -39,7 +39,6 @@ span{
 .img{
     width: 200px;
     height: 200px;
-    background: url('./src/1.jpg') center no-repeat;
     background-size:cover;
     border-radius: 50%;
 }
